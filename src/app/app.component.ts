@@ -7,4 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'ng-auth-reqres';
+
+  // check if token exist redirect to success if error go to login
 }
